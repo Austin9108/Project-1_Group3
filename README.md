@@ -5,55 +5,55 @@ Names: Juhi, Mea, Kesha, Austin, Hima, and Lora
 
 Tasks:
 
-Maintaining the READ.me and GitHub - Austin
+1. Maintaining the READ.me and GitHub - Austin
 
-Cleaning House price vs. mortgage rate csv and creating data frame- Austin
+2. Cleaning House price vs. mortgage rate csv and creating data frame- Austin
 
-Cleaning Market factors csv and creating data frame- Austin
+3. Cleaning Market factors csv and creating data frame- Austin
 
-Developing visualizations:
+4. Developing visualizations:
 
-House price vs. mortgage rate scatter plot, r value, linear regression line -Juhi
+            1. House price vs. mortgage rate scatter plot, r value, linear regression line -Juhi
 
-Market factors: x-axis: time, y-axis: market factor (impose 2 graphs on each other)
+            2. Market factors: x-axis: time, y-axis: market factor (impose 2 graphs on each other)
 
-Real disposable income, unemployment line graph (2 graphs-annual and monthly)
+            3. Real disposable income, unemployment line graph (2 graphs-annual and monthly)
 
-House price index, Mortgage rate line graph (2 graphs-annual and monthly)
+            4. House price index, Mortgage rate line graph (2 graphs-annual and monthly)
 
-Inflation, Mortgage rate line graph (2 graphs-annual and monthly)
+            5. Inflation, Mortgage rate line graph (2 graphs-annual and monthly)
 
-Unemployment rate, House price index line graph (2 graphs-annual and monthly)
+            6. Unemployment rate, House price index line graph (2 graphs-annual and monthly)
 
-Population, House price line graph (2 graphs-annual and monthly)
+            7. Population, House price line graph (2 graphs-annual and monthly)
 
-Slides on Google Presentation-each person makes their own slide based on what they coded
+5. Slides on Google Presentation-each person makes their own slide based on what they coded
 
-Graphic design on Google Presentation (make cohesive)- Mea 
+6. Graphic design on Google Presentation (make cohesive)- Mea 
 
-Practice Presentation - everyone
+7. Practice Presentation - everyone
 
 Datasets:
 
-Market factors  
-
-3 CSV files within market factors, keeping only 2
+1. Market factors
 
 Monthly_Macroeconomic_Factors.csv
 
 Annual_Macroeconomic_Factors.csv
 
-House price vs. mortgage rate
+2. House price vs. mortgage rate
+
+US House Price and Mortgage Rate.csv
 
 Questions:
 
-Is there a correlation between house price and mortgage rate?
+1. Is there a correlation between house price and mortgage rate?
 
 Methods: create a scatter plot, calculate the r value, develop a linear regression line
 
 Dataset: House price vs. mortgage rate
 
-How are the following macroeconomic factors associated with each other? Unemployment rate, real disposable income, house price index, mortgage rate, inflation, population 
+2. How are the following macroeconomic factors associated with each other? Unemployment rate, real disposable income, house price index, mortgage rate, inflation, population 
 
 Method: Plot on a line graph the following macroeconomic factors and look at the graphs and make conclusions
 
