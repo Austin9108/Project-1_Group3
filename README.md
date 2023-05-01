@@ -15,17 +15,17 @@ Tasks:
 
             1. House price vs. mortgage rate scatter plot, r value, linear regression line -Juhi
 
-            2. Market factors: x-axis: time, y-axis: market factor (impose 2 graphs on each other)
+        ## Market factors: x-axis: time, y-axis: market factor (impose 2 graphs on each other)
 
-            3. Real disposable income, unemployment line graph (2 graphs-annual and monthly)
+            2. Real disposable income, unemployment line graph (2 graphs-annual and monthly) - Lora
 
-            4. House price index, Mortgage rate line graph (2 graphs-annual and monthly)
+            3. House price index, Mortgage rate line graph (2 graphs-annual and monthly) - Hima
 
-            5. Inflation, Mortgage rate line graph (2 graphs-annual and monthly)
+            4. Inflation, Mortgage rate line graph (2 graphs-annual and monthly) - Kesha
 
-            6. Unemployment rate, House price index line graph (2 graphs-annual and monthly)
+            5. Unemployment rate, House price index line graph (2 graphs-annual and monthly) - Austin
 
-            7. Population, House price line graph (2 graphs-annual and monthly)
+            6. Population, House price line graph (2 graphs-annual and monthly) - Austin
 
 5. Slides on Google Presentation-each person makes their own slide based on what they coded
 
@@ -33,7 +33,7 @@ Tasks:
 
 7. Practice Presentation - everyone
 
-Datasets:
+## Datasets:
 
 1. Market factors
 
