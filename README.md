@@ -1,9 +1,9 @@
 # Project 1 Group_3
-Project 1: Housing Market
+## Project 1: Housing Market
 
-Names: Juhi, Mea, Kesha, Austin, Hima, and Lora
+### Names: Juhi, Mea, Kesha, Austin, Hima, and Lora
 
-Tasks:
+## Tasks:
 
 1. Maintaining the READ.me and GitHub - Austin
 
@@ -15,7 +15,7 @@ Tasks:
 
             1. House price vs. mortgage rate scatter plot, r value, linear regression line -Juhi
 
-        ## Market factors: x-axis: time, y-axis: market factor (impose 2 graphs on each other)
+            Market factors: x-axis: time, y-axis: market factor (impose 2 graphs on each other)
 
             2. Real disposable income, unemployment line graph (2 graphs-annual and monthly) - Lora
 
