@@ -1,7 +1,7 @@
 # Project 1 Group_3
 ## Project 1: Housing Market
 
-### Names: Juhi, Mea, Kesha, Austin, Hima, and Lora
+### Names: Juhi, Kesha, Austin, Hima, and Lora
 
 ## Tasks:
 
@@ -45,7 +45,7 @@ Annual_Macroeconomic_Factors.csv
 
 US House Price and Mortgage Rate.csv
 
-Questions:
+## Questions:
 
 1. Is there a correlation between house price and mortgage rate?
 
