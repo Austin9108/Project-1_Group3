@@ -7,9 +7,9 @@
 
 1. Maintaining the READ.me and GitHub - Austin
 
-2. Cleaning House price vs. mortgage rate csv and creating data frame- Austin
+2. Cleaning House price vs. mortgage rate csv and creating data frame - Austin
 
-3. Cleaning Market factors csv and creating data frame- Austin
+3. Cleaning Market factors csv and creating data frame - Austin
 
 4. Developing visualizations:
 
@@ -27,9 +27,9 @@
 
             6. Population, House price line graph (2 graphs-annual and monthly) - Austin
 
-5. Slides on Google Presentation-each person makes their own slide based on what they coded
+5. Slides on Google Presentation - each person makes their own slide based on what they coded
 
-6. Graphic design on Google Presentation (make cohesive)- Mea 
+6. Graphic design on Google Presentation (make cohesive)- Lora
 
 7. Practice Presentation - everyone
 
