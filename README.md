@@ -7,15 +7,17 @@
 
 1. Maintaining the READ.me and GitHub - Austin
 
-2. Cleaning House price vs. mortgage rate csv and creating data frame - Austin
+2. Cleaning House Price vs. Mortgage Rate CSV and Creating DataFrame - Austin
 
-3. Cleaning Market factors csv and creating data frame - Austin
+3. Cleaning Market Factors CSV and Creating DataFrame - Austin
 
-4. Developing visualizations:
+4. Merging Monthly Market Factors DataFrames - Kesha
+
+5. Developing Visualizations:
 
             House Price/Mortgage Rate:
 
-            1. House price vs. mortgage rate scatter plot, r value, linear regression line -Juhi
+            1. House Price vs. Mortgage Rate - Juhi
 
             Market Factors:
 
@@ -31,11 +33,11 @@
 
             7. GDP and House Price Index (Annual csv) - Austin
 
-5. Slides on Google Presentation - Everyone
+6. Slides on Google Presentation - Everyone
 
-6. Graphic design on Google Presentation (make cohesive)- Lora
+7. Graphic design on Google Presentation (make cohesive)- Lora
 
-7. Practice Presentation - Everyone
+8. Practice Presentation - Everyone
 
 ## Datasets:
 
