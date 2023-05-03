@@ -27,7 +27,7 @@
 
             4. GDP and Mortgage Rate - Kesha
 
-            5. GDP and House Price Index - Kesha and Austin
+            5. GDP and House Price Index - Kesha
 
             6. Unemployment Rate and House Price Index (Annual csv) - Austin
 
