@@ -9,7 +9,7 @@
 
 2. Cleaning CSV files and Creating DataFrames - Austin
 
-3. Merging Monthly Market Factors DataFrames - Kesha
+3. Merging Monthly & Annual Market Factors DataFrames - Kesha
 
 4. Developing Visualizations:
 
