@@ -57,7 +57,8 @@ Methods: create a scatter plot, calculate the r value, develop a linear regressi
 
 Dataset: House price vs. mortgage rate
 
-2. How are the following macroeconomic factors associated with each other? Unemployment rate, real disposable income, house price index, mortgage rate, inflation, population 
+2. How are the following macroeconomic factors associated with each other? 
+Unemployment Rate, Real Disposable Income, House Price Index, Mortgage Rate, Inflation, Consumer Price Index, GDP
 
 Method: Plot on a line graph the following macroeconomic factors and look at the graphs and make conclusions
 
