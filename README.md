@@ -25,19 +25,21 @@
 
             3. House Price Index and Mortgage Rate - Hima
 
-            4. Inflation and Mortgage Rate - Kesha
+            4. GDP and Mortgage Rate - Kesha
 
-            5. Unemployment Rate and House Price Index (Annual csv) - Austin
+            5. GDP and House Price Index - Kesha and Austin
 
-            6. Consumer Price Index and House Price Index (Annual csv) - Austin
+            6. Unemployment Rate and House Price Index (Annual csv) - Austin
 
-            7. GDP and House Price Index (Annual csv) - Austin
+            7. Consumer Price Index and House Price Index (Annual csv) - Austin
 
 6. Slides on Google Presentation - Everyone
 
-7. Graphic design on Google Presentation (make cohesive)- Lora
+7. Graphic design on Google Presentation (make cohesive)- Lora and Juhi
 
-8. Practice Presentation - Everyone
+8. Post-Development Analysis Write-Up - Everyone
+
+9. Practice Presentation - Everyone
 
 ## Datasets:
 
