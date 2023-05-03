@@ -12,6 +12,7 @@
 3. Cleaning Market factors csv and creating data frame - Austin
 
 4. Developing visualizations:
+
             House Price/Mortgage Rate:
 
             1. House price vs. mortgage rate scatter plot, r value, linear regression line -Juhi
