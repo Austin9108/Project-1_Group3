@@ -7,9 +7,9 @@
 
 1. Maintaining the READ.me and GitHub - Austin
 
-2. Cleaning CSV files and Creating DataFrames - Austin
+2. Cleaning CSV files and Creating Data Frames - Austin
 
-3. Merging Monthly & Annual Market Factors DataFrames - Kesha
+3. Merging Monthly & Annual Market Factors Data Frames - Kesha
 
 4. Developing Visualizations:
 
