@@ -7,13 +7,11 @@
 
 1. Maintaining the READ.me and GitHub - Austin
 
-2. Cleaning House Price vs. Mortgage Rate CSV and Creating DataFrame - Austin
+2. Cleaning CSV files and Creating DataFrames - Austin
 
-3. Cleaning Market Factors CSV and Creating DataFrame - Austin
+3. Merging Monthly Market Factors DataFrames - Kesha
 
-4. Merging Monthly Market Factors DataFrames - Kesha
-
-5. Developing Visualizations:
+4. Developing Visualizations:
 
             House Price/Mortgage Rate:
 
@@ -33,13 +31,13 @@
 
             7. Consumer Price Index and House Price Index (Annual csv) - Austin
 
-6. Slides on Google Presentation - Everyone
+5. Slides on Google Presentation - Everyone
 
-7. Graphic design on Google Presentation (make cohesive)- Lora and Juhi
+6. Graphic design on Google Presentation (make cohesive)- Lora and Juhi
 
-8. Post-Development Analysis Write-Up - Everyone
+7. Post-Development Analysis Write-Up - Everyone
 
-9. Practice Presentation - Everyone
+8. Practice Presentation - Everyone
 
 ## Datasets:
 
