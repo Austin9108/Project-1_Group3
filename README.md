@@ -12,26 +12,29 @@
 3. Cleaning Market factors csv and creating data frame - Austin
 
 4. Developing visualizations:
+            House Price/Mortgage Rate:
 
             1. House price vs. mortgage rate scatter plot, r value, linear regression line -Juhi
 
-            Market factors: x-axis: time, y-axis: market factor (impose 2 graphs on each other)
+            Market Factors:
 
-            2. Real disposable income, unemployment line graph (2 graphs-annual and monthly) - Lora
+            2. Real Disposable Income and Unemployment Rate - Lora
 
-            3. House price index, Mortgage rate line graph (2 graphs-annual and monthly) - Hima
+            3. House Price Index and Mortgage Rate - Hima
 
-            4. Inflation, Mortgage rate line graph (2 graphs-annual and monthly) - Kesha
+            4. Inflation and Mortgage Rate - Kesha
 
-            5. Unemployment rate, House price index line graph (2 graphs-annual and monthly) - Austin
+            5. Unemployment Rate and House Price Index (Annual csv) - Austin
 
-            6. Population, House price line graph (2 graphs-annual and monthly) - Austin
+            6. Consumer Price Index and House Price Index (Annual csv) - Austin
 
-5. Slides on Google Presentation - each person makes their own slide based on what they coded
+            7. GDP and House Price Index (Annual csv) - Austin
+
+5. Slides on Google Presentation - Everyone
 
 6. Graphic design on Google Presentation (make cohesive)- Lora
 
-7. Practice Presentation - everyone
+7. Practice Presentation - Everyone
 
 ## Datasets:
 
@@ -58,4 +61,12 @@ Dataset: House price vs. mortgage rate
 Method: Plot on a line graph the following macroeconomic factors and look at the graphs and make conclusions
 
 Dataset: Market factors 
+
+3. What do our comparisons tell us, and how are they related to household income?
+
+Method: Track the percent increase for household income and compare it to the percent increase of other relevant macroeconomic factors
+
+Dataset: Market factors
+
+Sources: US Census Bureau
 
