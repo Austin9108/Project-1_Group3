@@ -3,6 +3,10 @@
 
 ### Names: Juhi, Kesha, Austin, Hima, and Lora
 
+## Executive Summary
+
+We came into this project curious about trends in the housing market as it has become a common talking point in society today. We looked to see what those trends are, how they correlate with one another, and what information we could extrapolate from them. We looked at various datasets of information collected over the last half century, and we were able to find fairly conclusive data in a number of areas. We were able to find very conclusive data specifically in regards to the change in household income relative to the changes in the House Price Index and the Consumer Price Index over that period of time. Both Housing Price Index and Consumer Price Index have increased at a sizable rate, while the median household income (once adjusted for inflation) has increased substantially less. That information gives us clear indication of why there are a decreasing number of homeowners in the United States today.
+
 ## Tasks:
 
 1. Maintaining the READ.me and GitHub - Austin
