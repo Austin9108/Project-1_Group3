@@ -74,3 +74,11 @@ Dataset: Market factors
 
 Sources: US Census Bureau
 
+## Slideshow
+
+https://docs.google.com/presentation/d/1VjJd-6uUHP2fJd2yTdiUoRfl67-I4iST5M1LF6jaNUY/edit?usp=sharing
+
+## Post-Development Analysis
+
+https://docs.google.com/document/d/1RniBJGccAdN6QW1GM5eY-aHmIGDY2WgbfKDqyKEA6E8/edit?usp=sharing
+
